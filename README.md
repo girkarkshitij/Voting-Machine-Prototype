@@ -1,2 +1,2 @@
-# evm_prototype_oopm
+# Voting-Machine-Prototype
 An Electronic Voting Machine Prototype using java and sql.
